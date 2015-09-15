@@ -2,4 +2,4 @@
 
 echo 'Hello, World!';
 
-echo time();
+echo 1;
